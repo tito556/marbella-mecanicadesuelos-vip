@@ -3,7 +3,7 @@
   "short_name": "Marbella",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#264653",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "es",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Marbella, Spain. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/marbella-1125"
 }
